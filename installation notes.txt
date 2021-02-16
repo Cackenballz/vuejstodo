@@ -14,3 +14,6 @@ utf8mb4_unicode_ci
 npm run watch
 8. run a server
 php artisan serv
+
+9. create model with (m)igration (c)ontroller (r)esources (Todo is the name in the example below)
+php artisan make:model Todo -mcr
