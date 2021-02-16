@@ -10,3 +10,7 @@ php artisan ui vue --auth
 npm install && npm run dev
 6. make database (phpmyadmin)
 utf8mb4_unicode_ci
+7. compile css and js files
+npm run watch
+8. run a server
+php artisan serv
