@@ -9,3 +9,4 @@ php artisan ui vue --auth
 5. please run "npm install && npm run dev"
 npm install && npm run dev
 6. make database (phpmyadmin)
+utf8mb4_unicode_ci
